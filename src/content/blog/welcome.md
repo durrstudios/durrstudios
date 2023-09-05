@@ -1,5 +1,5 @@
 ---
-title: Moonlight Games
+title: First Blog Post
 publishDate: 2023-03-05 00:00:00
 img: /assets/welcome.jpeg
 img_alt: Welcome Sign
