@@ -1,7 +1,7 @@
 ---
 title: First Blog Post
 publishDate: 2023-03-05 00:00:00
-img: /assets/welcome.jpeg
+img: https://image-optimizer.darwincereska.repl.co/images/welcome.webp
 img_alt: Welcome Sign
 description: |
   Welcome to my first blog post
