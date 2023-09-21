@@ -1,7 +1,7 @@
 ---
 title: Moonlight Games
 publishDate: 2023-03-02 00:00:00
-img: /assets/moonlight.jpg
+img: /assets/moonlight.png
 img_alt: Moonlight Logo
 description: |
   Moonlight Games by Silvereen
